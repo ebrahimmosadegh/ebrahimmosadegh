@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ebrahim Mosadegh</h1>
+<h1 align="center">Hi 👋, welcome to my GitHub page</h1>
 <h3 align="center">A passionate full-stack developer from Iran</h3>
 
-- 🔭 I’m currently working Freelance
+- 👨🏻‍💻 I'm currently working as a freelancer
 
 - 🌱 I'm currently learning javascript libraries and frameworks
 
-- 🎌 I'm fluent **in Farsi, German and English
+- 🎌 I'm fluent in Farsi, German and English
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
