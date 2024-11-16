@@ -3,8 +3,6 @@
 
 - 👨🏻‍💻 I'm currently working as a freelancer.
 
-- 🌱 I'm currently learning javascript libraries and frameworks.
-
 - 🎌 I'm fluent German and English , native in Farsi.
 
 <h3 align="left">Connect with me:</h3>
