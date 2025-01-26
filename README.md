@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dribbble.com/ebrahimmosadegh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ebrahimmosadegh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14576978/ebr-mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14576978/ebr-mo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
